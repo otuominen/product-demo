@@ -32,3 +32,12 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# Ignore 
+id_rsa.pub
+id_rsa
+id_dsa.pub
+id_dsa
+*.pem
+*.key
+id_ed25519
